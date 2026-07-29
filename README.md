@@ -105,31 +105,31 @@ gcc main.c atm.c transaction.c validation.c file.c -o bank_management_system
 
 ## Main Menu
 
-![Main Menu](images/main-menu.png)
+![Main Menu](main-menu.png)
 
 ## Admin Dashboard
 
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ## Create Account
 
-![Create Account](images/create-account.png)
+![Create Account](create-account.png)
 
 ## User Login
 
-![User Login](images/user-login.png)
+![User Login](user-login.png)
 
 ## User Menu
 
-![User Menu](images/user-menu.png)
+![User Menu](user-menu.png)
 
 ## Deposit
 
-![Deposit](images/deposit.png)
+![Deposit](deposit.png)
 
 ## Withdraw
 
-![Withdraw](images/withdraw.png)
+![Withdraw](withdraw.png)
 
 ## Transfer
 
@@ -137,15 +137,15 @@ gcc main.c atm.c transaction.c validation.c file.c -o bank_management_system
 
 ## Balance Enquiry
 
-![Balance](images/balance-enquiry.png)
+![Balance](balance-enquiry.png)
 
 ## Mini Statement
 
-![Mini Statement](images/mini-statement.png)
+![Mini Statement](mini-statement.png)
 
 ## Exported Statement
 
-![Exported Statement](images/exported-statement.png)
+![Exported Statement](exported-statement.png)
 
 ---
 
