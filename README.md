@@ -119,10 +119,6 @@ gcc main.c atm.c transaction.c validation.c file.c -o bank_management_system
 
 ![User Login](user-login.png)
 
-## User Menu
-
-![User Menu](user-menu.png)
-
 ## Deposit
 
 ![Deposit](deposit.png)
@@ -133,7 +129,7 @@ gcc main.c atm.c transaction.c validation.c file.c -o bank_management_system
 
 ## Transfer
 
-![Transfer](images/transfer.png)
+![Transfer](transfer.png)
 
 ## Balance Enquiry
 
